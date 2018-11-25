@@ -69,7 +69,7 @@
   Il arrive parfois qu'on ai du mal à trouver sa place dans un groupe, surtout quand on doute déjà de sois à la base, ou que l'on doute de sa légitimité à donner son avis, exprimer son opinion, au regard de l'image que l'on se fait de notre niveau actuel.  
   Il arrive aussi, que ce sentiment sois renforcé par des petits détails que l'on observe chez les autres comme `se faire couper la parole`, `ne pas être écouté quand on propose une solution`, `ne pas obtenir de réponse à une question qu'on pose à voix haute`, ou bien `proposer une idée sur laquelle personne ne rebondis`.  
   J'ai méga scoop pour vous:  
-  <a href=""> ![Alt Text](https://media.giphy.com/media/WiM5K1e9MtEic/giphy.gif) C'est pas grave </a>
+  <a href="https://www.youtube.com/watch?v=GvUm3aaOpM8" target="_blank"> ![Alt Text](https://media.giphy.com/media/WiM5K1e9MtEic/giphy.gif) C'est pas grave !!!!</a>
   
 ### *6* Un bon moussaillon **fait preuve de rigueur**/  
 ### *7* Un bon moussaillon **fait toujours de son mieux**/  
