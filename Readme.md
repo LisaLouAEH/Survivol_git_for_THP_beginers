@@ -53,21 +53,21 @@
 ### *5* Un bon moussaillon **est un moussaillon qui à confiance**/  
   
   Aaaah la `confiance`, un si vaste sujet. Peut être le plus important de tous !  
-  Deux type de confiance peuvent être mise à mal quand vous aborder ce genre de démarche (apprendre une toute nouvelle discipline):  
-    
+  Deux type de confiance peuvent être mise à mal quand vous aborder ce genre de démarche (apprendre une toute nouvelle discipline):   
+  
     * La confiance en sois:  
   
-      Il est normal et sain de se questionner sur sa progression, de se comparer aux autres, ou encore d'être décue de ne pas obtenir aussi vite qu'on le souhaite les résultats pour lesquels on se bat de toute nos forces. Mais il est aussi trés important de se souvenir que si on est tous différents, que si on a tous un rythme différent, des aptitudes différentes etc. C'est bien parcequ'on a tous une valeur trés singulière à apporter à la communauté.  
-      **Il est impossible que dans un cursus aussi riche que le thp vous ne trouviez pas au moins un truc dans lequel vous êtes meilleur qu'un autre** !!  
-      De plus, si vous vous posez chaque semaine la question de savoir si la première semaine vous auriez été capable de faire la moitié de ce que vous êtes en train de faire aujourd'hui, **il est impossible que vous n'en veniez pas à la conclusion que 'oui' vous avez progressé**.  
-      Enfin, détendez vous, et rappellez vous l'enjeu de départ.  
-      Est ce que vous vous attendiez reelement à devenir le meilleur programmeur ruby que la planète puisse acceuillir en seulement 11 semaines ?  
-      **Rappeller vous, que la plus grande valeur que vous pouvez tirer de cette expérience et l'expérience en sois**. 
+  Il est normal et sain de se questionner sur sa progression, de se comparer aux autres, ou encore d'être décue de ne pas obtenir aussi vite qu'on le souhaite les résultats pour lesquels on se bat de toute nos forces. Mais il est aussi trés important de se souvenir que si on est tous différents, que si on a tous un rythme différent, des aptitudes différentes etc. C'est bien parcequ'on a tous une valeur trés singulière à apporter à la communauté.  
+  **Il est impossible que dans un cursus aussi riche que le thp vous ne trouviez pas au moins un truc dans lequel vous êtes meilleur qu'un autre** !!  
+  De plus, si vous vous posez chaque semaine la question de savoir si la première semaine vous auriez été capable de faire la moitié de ce que vous êtes en train de faire aujourd'hui, **il est impossible que vous n'en veniez pas à la conclusion que 'oui' vous avez progressé**.  
+  Enfin, détendez vous, et rappellez vous l'enjeu de départ.  
+  Est ce que vous vous attendiez reelement à devenir le meilleur programmeur ruby que la planète puisse acceuillir en seulement 11 semaines ?  
+  **Rappeller vous, que la plus grande valeur que vous pouvez tirer de cette expérience et l'expérience en sois**. 
    
     * La confiance en sois_dans_le_groupe:  
   
-      Il arrive parfois qu'on ai du mal à trouver sa place dans un groupe, surtout quand on doute déjà de sois à la base, ou que l'on doute de sa légitimité à donner son avis, exprimer son opinion, au regard de l'image que l'on se fait de notre niveau actuel.  
-      Il arrive aussi, que ce sentiment sois renforcé par des petits détails que l'on observe chez les autres comme `se faire couper la parole`, `ne pas être écouté quand on propose une solution`, `ne pas obtenir de réponse à une question qu'on pose à voix haute`, ou bien `proposer une idée sur laquelle personne ne rebondis`.  
+  Il arrive parfois qu'on ai du mal à trouver sa place dans un groupe, surtout quand on doute déjà de sois à la base, ou que l'on doute de sa légitimité à donner son avis, exprimer son opinion, au regard de l'image que l'on se fait de notre niveau actuel.  
+  Il arrive aussi, que ce sentiment sois renforcé par des petits détails que l'on observe chez les autres comme `se faire couper la parole`, `ne pas être écouté quand on propose une solution`, `ne pas obtenir de réponse à une question qu'on pose à voix haute`, ou bien `proposer une idée sur laquelle personne ne rebondis`.  
   
 ### *6* Un bon moussaillon **fait preuve de rigueur**/  
 ### *7* Un bon moussaillon **fait toujours de son mieux**/  
