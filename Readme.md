@@ -41,12 +41,12 @@
     Plus on est appliqué à décrire son problème avec le plus détails possible, plus on est enclin à trouver la solution sois même au cours de notre explication.  
     Avez vous entendu parler du <a href="https://fr.wikipedia.org/wiki/M%C3%A9thode_du_canard_en_plastique">codding duck</a> ?  
   
-*4* Un bon moussaillon **est un moussaillon qui fait des pauses**/  
+*4* Un bon moussaillon **est un moussaillon qui fait des pauses, pour prendre du recul**/  
   
   
 *5* Un bon moussaillon **est un moussaillon qui à confiance**/  
 *6* Un bon moussaillon **fait preuve de rigueur**/  
-*7*  
-*8*  
-*9*  
-*10*  
+*7* Un bon moussaillon **fait toujours de son mieux**/  
+*8* Un bon moussaillon **répond à un appel à l'aide, mais ne s'impose jamais**/  
+*9* Un bon moussaillon **est un moussaillon reconnaissant**/  
+*10* Un bon moussaillon **n'est jamais seul**/  
