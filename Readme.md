@@ -1,14 +1,17 @@
 # Petit 'git' de Survie à l'intention des Moussaillons en detresse.  
 ## Introduction/  
   
---> Etrangement, plus on à d'expérience dans la vie en général et plus il devient difficile 
+  Etrangement, plus on à d'expérience dans la vie en général et plus il devient difficile 
   d'aligner sa mentalité avec celui de l'enfant qu'on était dans le passé. Hors, cet enfant là 
-  était bien plus fort pour apprendre de nouvelle chose que l'adulte qu'on est aujourdhui, n'est ce pas?!
+  était bien plus fort pour apprendre de nouvelle chose que l'adulte qu'on est aujourdhui, n'est ce pas?!  
   Débuter en programmation c'est un peu comme tirer sur l'extrémité qui dépasse d'une bobine de laine.  
   Au début, on tire doucement, on prends le temps d'observer jusque dans ses moindres détails les petites
   particules de fibre, jusqu'à qu'on se rende compte que le fil semble ne pas vouloir s'arreter de défiler, alors on tire dessus de plus en plus fort et vite, jusqu'à en avoir partout autour de nous.  
   Et c'est là que l'apprentissage commence en réalité, quand on a pris conscience de l'importante compléxité qu'est le monde de la programmation et qu'on commence tout doucement, centimètres par centimètres à reformer la pelotte de laine.  
-  Il arrive alors un premier noeud, puis un second encore plus sérré, puis un troisième aprés seulement le deuxième défait. C'est long, difficile et en plus, la plus part du temps on comprends même pas ce qui nous a permis de défaire le noeud précédent. En programmation on bloque sur chaque nouveau projet au moins aussi souvent que quand on démèlle et reconstitue une pellote de laine.
+  Il arrive alors un premier noeud, puis un second encore plus sérré, puis un troisième aprés seulement le deuxième défait. C'est long, difficile et en plus, la plus part du temps on comprends même pas ce qui nous a permis de défaire le noeud précédent. En programmation on bloque sur chaque nouveau projet au moins aussi souvent que quand on démèlle et reconstitue une pellote de laine.  
+  De plus, quand on est adulte, on subit plusieurs sorte de préssion, souvent inconsciente, comme la préssion sociale, familliale, notre préssion personnelle à l'égard de nos ambitions, qui peuvent nous donner `l'im-préssion` que nous n'avons pas le temps `d'échouer`, pas le droit à `l'érreur`.
+  Et bien si cela peux diminuer, ne serait ce qu'un petit peu ce genre de préssion si vous la ressentez, **sachez qu'au thp il n'éxiste qu'un seul type d'échec: l'abandon**.  
+  
 ## Les 10 commandements du `Valeureux Moussaillon`/  
   
 ### *1*  Un bon moussaillon est **un moussaillon qui est confortable avec la sensation d'être nul.**/  
@@ -49,4 +52,4 @@
 ### *7* Un bon moussaillon **fait toujours de son mieux**/  
 ### *8* Un bon moussaillon **répond à un appel à l'aide, mais ne s'impose jamais**/  
 ### *9* Un bon moussaillon **est un moussaillon reconnaissant**/  
-### *10* Un bon moussaillon **n'est jamais seul**/  
+### *10* Un bon moussaillon **n'est jamais seul, et ne laisse personne derrière**/  
