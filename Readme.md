@@ -7,17 +7,25 @@
   Débuter en programmation c'est un peu comme tirer sur l'extrémité qui dépasse d'une bobine de laine.  
   Au début, on tire doucement, on prends le temps d'observer jusque dans ses moindres détails les petites
   particules de fibre, jusqu'à qu'on se rende compte que le fil semble ne pas vouloir s'arreter de défiler, alors on tire dessus de plus en plus fort et vite, jusqu'à en avoir partout autour de nous.  
+  
   Et c'est là que l'apprentissage commence en réalité, quand on a pris conscience de l'importante compléxité qu'est le monde de la programmation et qu'on commence tout doucement, centimètres par centimètres à reformer la pelotte de laine.  
   Il arrive alors un premier noeud, puis un second encore plus sérré, puis un troisième aprés seulement le deuxième défait. C'est long, difficile et en plus, la plus part du temps on comprends même pas ce qui nous a permis de défaire le noeud précédent. En programmation on bloque sur chaque nouveau projet au moins aussi souvent que quand on démèlle et reconstitue une pellote de laine.  
+  
   De plus, quand on est adulte, on subit plusieurs sorte de préssion, souvent inconsciente, comme la préssion sociale, familliale, notre préssion personnelle à l'égard de nos ambitions, qui peuvent nous donner `l'im-préssion` que nous n'avons pas le temps `d'échouer`, pas le droit à `l'érreur`.
   Et bien si cela peux diminuer, ne serait ce qu'un petit peu ce genre de préssion si vous la ressentez, **sachez qu'au thp il n'éxiste qu'un seul type d'échec: l'abandon**.  
+  
+  Ceci étant dit, suivre le THP peux être plus ou moins difficile émotionnellement en fonction des sensibilités de chacun, de son parcours, de ses attentes, de expériences passés, ou encore de la composition de son groupe etc...  
+  Ayant moi-même rencontrés quelques difficultés, dont certaines on réellement faillit me faire abandonner, je me suis fait un ensemble de réfléxions, formulées ici en 'petit commandements' que j'aurais aimé qu'on me transmette quand j'ai commencé. Biensure, face au difficultés, le Staff du THP à été d'un soutien remarquable, et tout ce qui est écris ici est complètement subjectif, et ne saurait se substituer à leurs conseils avisés et bien plus expérimentés.  
+  Cependant cette petite contribution que je vous présente ici, je vous l'offre de tout mon coeur, en espérant que sur au moins un chapitre ou deux, elle vous soit utile dans les coups durs.  
   
 ## Les 10 commandements du `Valeureux Moussaillon`/  
   
 ### *1*  Un bon moussaillon est **un moussaillon qui est confortable avec la sensation d'être nul.**/  
   
   A l'image du discours de <a href="https://www.youtube.com/channel/UC22mJjtnkZfLZMBoAZ9jI3w/featured">Stephane</a>, le parcours The hacking project nous confronte directement à la difficulté de ne pas pouvoir s'appuyer sur notre acharnement et notre motivation pour obtenir des résultats.  
-  On a beau travailler comme des acharnés, y passer nos weekends, nos soirées, une grosse partie de nos nuits en plus du reste de la semaine, consulter des dizaines de tutos, en vidéos, à l'écris, en français, en anglais, taper tout un tas de combinaisons dans notre moteur de rechercher préféré, on à malgré tout la sensation de `ne pas avancer`, de `galerer` à rendre les projets, de faire toujours dans le `mediocre` etc... Et ce sentiment de frustration est d'autant plus renforcé, quand on à eu l'expérience de travailler dans différents secteurs professionnels, ou même dans nos parcours post bac, universitaire ou autres, et que le message de fond était *plus tu travaille, meilleurs sont tes résultats*.  Et bien dans le code, tout porte à croire que l'apprentissage se rapproche plus de celui d'un sport d'endurance, ou d'un hobbie d'enfant.  
+  On a beau travailler comme des acharnés, y passer nos weekends, nos soirées, une grosse partie de nos nuits en plus du reste de la semaine, consulter des dizaines de tutos, en vidéos, à l'écris, en français, en anglais, taper tout un tas de combinaisons dans notre moteur de rechercher préféré, on à malgré tout la sensation de `ne pas avancer`, de `galerer` à rendre les projets, de faire toujours dans le `mediocre` etc... Et ce sentiment de frustration est d'autant plus renforcé, quand on à eu l'expérience de travailler dans différents secteurs professionnels, ou même dans nos parcours post bac, universitaire ou autres, et que le message de fond était *plus tu travaille, meilleurs sont tes résultats*.  
+  
+  Et bien dans le code, tout porte à croire que l'apprentissage se rapproche plus de celui d'un sport d'endurance, ou d'un hobbie d'enfant.  
   Au début de chaque nouvelle notions, on est nul, c'est comme çà, et il n'y à vraiment rien de mal à ca !  
   En fait, il y a même tout à y gagner dés lors qu'on comprends que :  
     -  Ca peux être drôle d'être nul  
@@ -36,9 +44,11 @@
 ### *3* Un bon moussaillon **accepte l'aide des autres**/  
   
   Le `phare de la pédagogie THP est la communauté`. Autant il est conseillé partout de ne pas hésiter quand on est coincé, à partager son problème, à *appeller à l'aide*, avec son groupe de travail, et avec la communauté. Autant j'ai pu remarqué qu'on parlait pas beaucoup de comment apprendre à se faire aider. Ca ne s'improvise pas, on est d'accord ?  
+  
   * Déjà, comme partout, là où les humains passent, les jugements restent:  
     L la solution à un pbm qu'on rencontre peux provenir d'absolument n'importe où. Hors, il arrive parfois que des personnes qu'on juge, ou qui portent l'étiquette du jugement d'un autre, nous servent la solution sur un petit plateau doré et qu'on s'empresse de refuser.  
     **Attention au jugements, tout le monde peux dire quelquechose de pertinent**  
+  
   * Il arrive aussi parfois que la solution qu'on nous propose ne semble pas correspondre au problème    qu'on rencontre:  
     L C'est pas grave **on prends**, on discute, on étale le problème sur la table, avec du papier et des feutres de couleurs.  
     Plus on est appliqué à décrire son problème avec le plus détails possible, plus on est enclin à trouver la solution sois même au cours de notre explication.  
@@ -48,7 +58,7 @@
   
   Comme dans n'importe quel sport, si on bourine comme des bouriques dés le départ, on finit par se blesser et plus pouvoir progresser.  
   Sans vouloir jouer les '*docteur je-sais-tout*', qui n'a pas vue passer suffisement d'études sur le comportement du cerveaux, pour savoir qu'il a besoin de [sucre], de [dopamine_serotonine_et_autre hormone_du_plaisir], et de [repos] !!  
-  **alors on fait dodo**, **on mange bien**, **on s'hydrate**, **on rigole avec les copains**, **on prends une grande inspiration** et on trouve comment faire marcher ses '*foutues relation polymorphic dans nos base de données*'.  
+  **alors on fait dodo**, **on mange bien**, **on s'hydrate**, **on rigole avec les copains**, **on prends une grande inspiration** et on trouve comment faire marcher ses '*foutues relations polymorphiques entre nos base de données*'.  
   
 ### *5* Un bon moussaillon **est un moussaillon qui à confiance**/  
   
@@ -71,12 +81,20 @@
   J'ai méga scoop pour vous:  
   <a href="https://www.youtube.com/watch?v=GvUm3aaOpM8" target="_blank"> ![Alt Text](https://media.giphy.com/media/WiM5K1e9MtEic/giphy.gif) C'est pas grave !!!!</a>
   
-  En fait, on ressent tous ca à un moment donné, et si vraiment dans votre groupe ca va plus loin qu'un simple sentiment, il y a toujours moyen d'en parler honêtement, de faire avec, ou au pire de changer de groupe. Mais dans l'absolue, le bootcamp ne dure que 11 semaines, et la plus part du temps, le moyen le plus simple de régler ca est de diminuer les attentes que vous avez à l'égard du groupe avec un petit raisonnement interne type `ils m'écoutent pas ?! Bah, tant pis, je ferais ce truc pour moi`, ou `ma solution l'interesse pas ?! pas grave, je retourne m'assoir, il sait ou me trouver`.
+  En fait, on ressent tous ca à un moment donné, et si vraiment dans votre groupe ca va plus loin qu'un simple sentiment, il y a toujours moyen d'en parler honêtement, de faire avec, ou au pire de changer de groupe. Mais dans l'absolue, le bootcamp ne dure que 11 semaines, et la plus part du temps, le moyen le plus simple de régler ca est de diminuer les attentes que vous avez à l'égard du groupe avec un petit raisonnement interne type `ils m'écoutent pas ?! Bah, tant pis, je ferais ce truc pour moi`, 
+  ou `ma solution l'interesse pas ?! pas grave, je retourne m'assoir, il sait ou me trouver`.  
+   
   D'une manière générale, le recul est toujours favorable aux relations humaines, il y a donc plus de chances que le groupe vous surprennent agréable si vous diminuez, voir héradiquez vos attentes. En effet, de cette manière vous ne vous exposez ni au deceptions, ni aux blessures d'orgueil, votre communication est plus détendue et comme vous perdez moins de temps à tenter de vous faire entendre, vous consacrez plus de temps à approfondir vos connaissances, ce qui vous aidera à prendre confiance en vous, et la confiance c'est contagieux.  
   
 ### *6* Un bon moussaillon **fait preuve de rigueur**/  
   
+  Que signifie le concept de 'rigueur' au sein du thp ?  
+    ex:  
+  *Il existe un bien étrange sujet de polémique au sujet des corrections entre moussaillon. En effet, aprés chaque projet, chaque moussaillon dispose de 3 heures (entre 9h et midi) pour corriger 2 autres moussaillons et se faire corriger.  
+  Certains moussaillons se proclament 'talent du soir' et revendiquent leurs droits à dormir jusqu'a 11h les jours de correction car, vous comprenez, ils ont travaillé sur leurs projet jusqu'a 5h du matin. Ce qui pose un problème au moussaillons qui on aussi travaillé jusqu'a 5h du matin mais qui font l'éffort de se reveiller à 9h pour les corrections*  
   
+  
+
 ### *7* Un bon moussaillon **fait toujours de son mieux**/  
 ### *8* Un bon moussaillon **répond à un appel à l'aide, mais ne s'impose jamais**/  
 ### *9* Un bon moussaillon **est un moussaillon reconnaissant**/  
