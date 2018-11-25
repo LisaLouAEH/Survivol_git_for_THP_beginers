@@ -46,6 +46,9 @@
   
 ### *4* Un bon moussaillon **est un moussaillon qui fait des pauses, pour prendre du recul**/  
   
+  Comme dans n'importe quel sport, si on bourine comme des bouriques dés le départ, on finit par se blesser et plus pouvoir progresser.  
+  Sans vouloir jouer les '*docteur je-sais-tout*', qui n'a pas vue passer suffisement d'études sur le comportement du cerveaux, pour savoir qu'il a besoin de [sucre], de [dopamine_serotonine_et_autre hormone_du_plaisir], et de [repos] !!  
+  **alors on fait dodo**, **on mange bien**, **on rigole avec les copains**, **on prends une grande inspiration** et on trouve comment faire marcher ses 'foutues relation polymorphic dans nos base de données'.  
   
 ### *5* Un bon moussaillon **est un moussaillon qui à confiance**/  
 ### *6* Un bon moussaillon **fait preuve de rigueur**/  
