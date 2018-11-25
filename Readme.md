@@ -71,7 +71,12 @@
   J'ai méga scoop pour vous:  
   <a href="https://www.youtube.com/watch?v=GvUm3aaOpM8" target="_blank"> ![Alt Text](https://media.giphy.com/media/WiM5K1e9MtEic/giphy.gif) C'est pas grave !!!!</a>
   
+  En fait, on ressent tous ca à un moment donné, et si vraiment dans votre groupe ca va plus loin qu'un simple sentiment, il y a toujours moyen d'en parler honêtement, de faire avec, ou au pire de changer de groupe. Mais dans l'absolue, le bootcamp ne dure que 11 semaines, et la plus part du temps, le moyen le plus simple de régler ca est de diminuer les attentes que vous avez à l'égard du groupe avec un petit raisonnement interne type `ils m'écoutent pas ?! Bah, tant pis, je ferais ce truc pour moi`, ou `ma solution l'interesse pas ?! pas grave, je retourne m'assoir, il sait ou me trouver`.
+  D'une manière générale, le recul est toujours favorable aux relations humaines, il y a donc plus de chances que le groupe vous surprennent agréable si vous diminuez, voir héradiquez vos attentes. En effet, de cette manière vous ne vous exposez ni au deceptions, ni aux blessures d'orgueil, votre communication est plus détendue et comme vous perdez moins de temps à tenter de vous faire entendre, vous consacrez plus de temps à approfondir vos connaissances, ce qui vous aidera à prendre confiance en vous, et la confiance c'est contagieux.  
+  
 ### *6* Un bon moussaillon **fait preuve de rigueur**/  
+  
+  
 ### *7* Un bon moussaillon **fait toujours de son mieux**/  
 ### *8* Un bon moussaillon **répond à un appel à l'aide, mais ne s'impose jamais**/  
 ### *9* Un bon moussaillon **est un moussaillon reconnaissant**/  
