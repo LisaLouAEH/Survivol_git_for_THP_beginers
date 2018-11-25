@@ -1,4 +1,8 @@
-# Petit 'git' de Survie à l'intention des Moussaillons en detresse.  
+# Petit 'git' de Survie à l'intention des Moussaillons en detresse.
+
+  Par Lisa Lou AEH, Moussaillon session octobre 2018.  
+  Et avec le soutien orthographique de  
+    
 ## Introduction/  
   
   Etrangement, plus on à d'expérience dans la vie en général et plus il devient difficile 
@@ -136,3 +140,10 @@
   Tout le monde a besoin de sentir que sa présence dans un groupe, est utile, importante, que les gens s'y intéressent.  
   Ca ne mange pas de pain, de s'assoir à coté, de lui faire une blague, de lui proposer de manger ensemble etc.  Ou même de l'encourager, de remarquer une qualité dans son travail, etc.  
   La collaboration entre être humain est soumis à des codes culturels et tout le monde n'a peut être pas eu l'occasion d'en prendre conscience ou encore connaissance. On a tous une valeur inestimable à apporter à un groupe tant que l'on fait de son mieux pour se positionner toujours dans une approche de bienveillance, et un groupe à reellement quelquechose à perdre quand un membre en est exclue.  
+    
+## Lecture recommandable:  
+  
+  Dale Carnegie, *Comment se faire des amis*.  
+  Paulo Cohelo, *Le guerier de la lumière*.
+  Miguel Ruiz, *Les 4 accords Toltèques*.
+  Hal Elrod, *Miracle Morning*.
