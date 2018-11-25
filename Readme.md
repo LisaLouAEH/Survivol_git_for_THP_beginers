@@ -144,6 +144,6 @@
 ## Lecture recommandable:  
   
   Dale Carnegie, *Comment se faire des amis*.  
-  Paulo Cohelo, *Le guerier de la lumière*.
-  Miguel Ruiz, *Les 4 accords Toltèques*.
-  Hal Elrod, *Miracle Morning*.
+  Paulo Cohelo, *Le guerier de la lumière*.  
+  Miguel Ruiz, *Les 4 accords Toltèques*.  
+  Hal Elrod, *Miracle Morning*.  
