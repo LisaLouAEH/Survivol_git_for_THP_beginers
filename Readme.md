@@ -29,11 +29,12 @@
   Au début de chaque nouvelle notions, on est nul, c'est comme çà, et il n'y à vraiment rien de mal à ca !  
   En fait, il y a même tout à y gagner dés lors qu'on comprends que :  
     -  Ca peux être drôle d'être nul  
-    -  On comprends mieux les nuls quand on a sois même été nuls
+    -  On comprends mieux les nuls quand on a sois même été nuls  
     -  la vérité sort de la bouche des nuls !  
-    -  Le plus important: `seul un nul peux apprendre l'humilité`
-  Soyons **fier** d'être nul, parcequ'on le restera pas longtemps ;)  
-
+    -  Le plus important: `seul un nul peux apprendre l'humilité`  
+    -  Un nul ne se prends pas trop au sérieux `nul pour tous, tous des nuls` !!  
+  Soyons **fier d'être nul**, parcequ'**on le restera pas longtemps** ;)  
+  
 ### *2* Un bon moussaillon est **un moussaillon aussi gentils avec les autres qu'il est gentils envers lui même.**/  
   
   `Je suis trop con`, `ah putain je suis trop bête`, `désolé, je fais que de la merde` etc... **STOP** !!  
@@ -99,9 +100,25 @@
   Comment on fait quand 3 moussaillons sur 4, sont joignablent qu'a partir de 11h ?  
   
   Quand je parle de faire preuve de rigueur, je parle de prendre 5 min pour se mettre à la place de l'autre, et se poser la question de l'impact de nos actions sur les autres, que ce soit pour les corrections, les projets de groupes, les projets finaux, les chanels sur slack ou on échange.  
-  Il suffit souvent d'un tout petit effort de chacun, sur un tout petit détails, pour contribuer à l'éfficacité général d'une session THP.  
+  **Il suffit souvent d'un tout petit effort de chacun, sur un tout petit détails, pour contribuer à l'éfficacité général d'une session THP.**  
   
 ### *7* Un bon moussaillon **fait toujours de son mieux**/  
+  
+  Est ce qu'il vous parait objectivement 'possible' de faire 'mieux' que votre 'mieux' ?  
+  *NaN ??!*  
+  La démarche de `faire de notre mieux` à beau être la même pour tous, il n'empêche que tout le monde n'a pas le même `mieux`. Nous n'obtenons donc pas tous les mêmes résultats. **CEPENDANT**, J'AI UNE BONNE NOUVELLE !!  
+  ***Votre mieux progresse chaque jour lui aussi*** !! Ainsi, quand aujourd'hui vous faite de votre mieux, vous allez nécéssairement plus loin que la veille, même si la veille vous faisiez déjà de votre 'mieux'.   
+  Alors, ok, aujourd'hui vous n'avez juste rien compris à cette histoire d'API twitter et pourtant vous aviez fait de votre mieux. Le lendemain non plus, la semaine suivante un peu, mais le monde des APIs c'est pas encore trés claire.
+  --> La semaine d'encore aprés, vous êtes en train d'accepter comme mission de rédiger vous même un tutos sur les APIs.  
+  **Faites simplement de votre mieux chaque jours.**  
+  
 ### *8* Un bon moussaillon **répond à un appel à l'aide, mais ne s'impose jamais**/  
+  
+  Galilée disait `enseigner aux autres c'est leurs rappeller ce qu'ils savent déjà`.  
+  
+  Des fois quand vous allez tenter d'expliquer quelquechose à quelqu'un, on va vous sortir `mais je sais ca!` ou encore `c'est bon je sais ce qui vas pas`  sans vous écouter ou encore `non-non, je sais que le problème vient pas de la`. Ce qui peux être assez désagréable, surtout si vous interrompez ce que vous êtes en train de faire pour filer un coup de main.  
+  Mais il y une composante taboo dont on ne parle pas beaucoup en général:  
+  `L'EGO`  
+  En effet, il est primordial de manager l'ego des autres moussaillons, sans parler de flaterie 
 ### *9* Un bon moussaillon **est un moussaillon reconnaissant**/  
 ### *10* Un bon moussaillon **n'est jamais seul, et ne laisse personne derrière**/  
