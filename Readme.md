@@ -88,13 +88,19 @@
   
 ### *6* Un bon moussaillon **fait preuve de rigueur**/  
   
-  Que signifie le concept de 'rigueur' au sein du thp ?  
-    ex:  
+  Que signifie pour moi le concept de 'rigueur' au sein du thp ?  
+    exemple:  
   *Il existe un bien étrange sujet de polémique au sujet des corrections entre moussaillon. En effet, aprés chaque projet, chaque moussaillon dispose de 3 heures (entre 9h et midi) pour corriger 2 autres moussaillons et se faire corriger.  
-  Certains moussaillons se proclament 'talent du soir' et revendiquent leurs droits à dormir jusqu'a 11h les jours de correction car, vous comprenez, ils ont travaillé sur leurs projet jusqu'a 5h du matin. Ce qui pose un problème au moussaillons qui on aussi travaillé jusqu'a 5h du matin mais qui font l'éffort de se reveiller à 9h pour les corrections*  
+  Certains moussaillons se proclament 'talent du soir' et revendiquent leurs droits à dormir jusqu'a 11h les jours de correction car, vous comprenez, ils ont travaillé sur leurs projet jusqu'a 5h du matin. Ce qui pose un problème au moussaillons qui on aussi travaillé jusqu'a 5h du matin mais qui font l'éffort de se reveiller à 9h pour les corrections*  --> est ce que ce thème vous évoque quelquechose ?  
   
+  [Ici nous abordons une opinion qui m'est complètement personnelle car elle traite de mes valeurs, libre à vous d'en tennir compte ou de passer au chapitre suivant.]  
   
-
+  Pour moi la rigueur est une manifestation spontanée de respect à l'égard de mes pairs qui prends la forme d'être toujours disponible à 9h pour les corrections même si je n'ai pas dormis de la nuit, de prendre le temps d'écouter la personne que je corrige, de lire son code, de lui faire remarquer que tel exercice est réussi, de lui poser des questions sur des passages que je n'ai pas compris, de lui proposer des améliorations sur un exercice que j'ai mieux réussi, de partager des ressources, de vérifier plusieurs fois que j'ai cochés les bonnes cases sur la grille de correction, d'écrire un commentaire encourageant. Bref tout cela prends du temps, au moins 30/40 min * 4 corrections.  
+  Comment on fait quand 3 moussaillons sur 4, sont joignablent qu'a partir de 11h ?  
+  
+  Quand je parle de faire preuve de rigueur, je parle de prendre 5 min pour se mettre à la place de l'autre, et se poser la question de l'impact de nos actions sur les autres, que ce soit pour les corrections, les projets de groupes, les projets finaux, les chanels sur slack ou on échange.  
+  Il suffit souvent d'un tout petit effort de chacun, sur un tout petit détails, pour contribuer à l'éfficacité général d'une session THP.  
+  
 ### *7* Un bon moussaillon **fait toujours de son mieux**/  
 ### *8* Un bon moussaillon **répond à un appel à l'aide, mais ne s'impose jamais**/  
 ### *9* Un bon moussaillon **est un moussaillon reconnaissant**/  
