@@ -23,14 +23,14 @@
     -  Le plus important: `seul un nul peux apprendre l'humilité`
   Soyons **fier** d'être nul, parcequ'on le restera pas longtemps ;)  
 
-*2* Un bon moussaillon est **un moussaillon aussi gentils avec les autres qu'il est gentils envers lui même.**/  
+### *2* Un bon moussaillon est **un moussaillon aussi gentils avec les autres qu'il est gentils envers lui même.**/  
   
   `Je suis trop con`, `ah putain je suis trop bête`, `désolé, je fais que de la merde` etc... **STOP** !!  
   On est des gentils moussaillons, et cela ne nous viendrait pas à l'esprit de dire à un collegue 't'es trop con', ou encore 'nan mais la mec, tu fais que de la merde !'. Bizarrement on se le dit à nous même, et ce message qu'on s'envoit nous même au cerveau est juste radicalement dévastateur.  
   Non seulement on s'aide pas à avancer, mais en plus on pollue l'environnement d'apprentissage de tout
   le monde avec des notions de 'cons', 'bête', 'merde' etc... ce qui laisse planer dans l'atmosphère que 'quand on se trompe c'est *maaaal*' alors que *non ! c'est ok de se tromper*.
   
-*3* Un bon moussaillon **accepte l'aide des autres**/  
+### *3* Un bon moussaillon **accepte l'aide des autres**/  
   
   Le `phare de la pédagogie THP est la communauté`. Autant il est conseillé partout de ne pas hésiter quand on est coincé, à partager son problème, à *appeller à l'aide*, avec son groupe de travail, et avec la communauté. Autant j'ai pu remarqué qu'on parlait pas beaucoup de comment apprendre à se faire aider. Ca ne s'improvise pas, on est d'accord ?  
   * Déjà, comme partout, là où les humains passent, les jugements restent:  
@@ -41,12 +41,12 @@
     Plus on est appliqué à décrire son problème avec le plus détails possible, plus on est enclin à trouver la solution sois même au cours de notre explication.  
     Avez vous entendu parler du <a href="https://fr.wikipedia.org/wiki/M%C3%A9thode_du_canard_en_plastique">codding duck</a> ?  
   
-*4* Un bon moussaillon **est un moussaillon qui fait des pauses, pour prendre du recul**/  
+### *4* Un bon moussaillon **est un moussaillon qui fait des pauses, pour prendre du recul**/  
   
   
-*5* Un bon moussaillon **est un moussaillon qui à confiance**/  
-*6* Un bon moussaillon **fait preuve de rigueur**/  
-*7* Un bon moussaillon **fait toujours de son mieux**/  
-*8* Un bon moussaillon **répond à un appel à l'aide, mais ne s'impose jamais**/  
-*9* Un bon moussaillon **est un moussaillon reconnaissant**/  
-*10* Un bon moussaillon **n'est jamais seul**/  
+### *5* Un bon moussaillon **est un moussaillon qui à confiance**/  
+### *6* Un bon moussaillon **fait preuve de rigueur**/  
+### *7* Un bon moussaillon **fait toujours de son mieux**/  
+### *8* Un bon moussaillon **répond à un appel à l'aide, mais ne s'impose jamais**/  
+### *9* Un bon moussaillon **est un moussaillon reconnaissant**/  
+### *10* Un bon moussaillon **n'est jamais seul**/  
