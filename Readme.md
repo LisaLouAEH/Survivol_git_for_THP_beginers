@@ -119,6 +119,20 @@
   Des fois quand vous allez tenter d'expliquer quelquechose à quelqu'un, on va vous sortir `mais je sais ca!` ou encore `c'est bon je sais ce qui vas pas`  sans vous écouter ou encore `non-non, je sais que le problème vient pas de la`. Ce qui peux être assez désagréable, surtout si vous interrompez ce que vous êtes en train de faire pour filer un coup de main.  
   Mais il y une composante taboo dont on ne parle pas beaucoup en général:  
   `L'EGO`  
-  En effet, il est primordial de manager l'ego des autres moussaillons, sans parler de flaterie 
+  En effet, il est primordial de manager l'ego des autres moussaillons, sans parler de flaterie (bien que l'encouragement est recomandable), mais de s'evertuer à ne rien dire ou faire qui pourrait blesser l'orgueil d'autrui.  
+  **Attention à slack notamment, il vaut mieux regler ses comptes en pv, plutot que sur un chanel exposé au regard de tous**  
+  Je trouve personnellement qu'il est plus confortable de démarrer tout de suite par `je peux me tromper mais il me semble que` quand on propose une solution, surtout que comme on débute, il est vrai qu'on peux se tromper.  
+  De plus, je recomande vraiment de ne pas circuler derriere l'écran de quelqu'un en posant la fameuse question `t'en es ou ?` si c'est pour enchainer par `ben déja tu devrais faire un controller avant de faire des routes`. Si on ne vous a rien demander ... *on ne vous a rien demandé*.  
+  
 ### *9* Un bon moussaillon **est un moussaillon reconnaissant**/  
+  
+  Ca coute rien de dire `merci` quand on vous fil un coup de main, n'est ce pas ?  
+  Et bien, aller un peu plus loin coute rien non plus, et ca rapporte beaucoup de satisfation à la personne qui apparait dans le classement des coups de mains, quand vous avez pensé à mentionner son nom dans la liste THP du matin.  
+  
 ### *10* Un bon moussaillon **n'est jamais seul, et ne laisse personne derrière**/  
+  
+  Si je puis me permettre une dernière recomandation, c'est bien de vous intéresser à tout les membres de votre groupe, même quand tout se passe bien. Si vous remarquer qu'une personne est un peu plus en retrait que les autres, qu'elle fait un peu cavalier seul, ou que vous observer que jours aprés jours, elle devient de plus en plus discrète, il est possible que cette personne ai besoin d'un petit coup de pousse relationnelle de la part de n'importe qui dans le groupe.  
+  
+  Tout le monde a besoin de sentir que sa présence dans un groupe, est utile, importante, que les gens s'y intéressent.  
+  Ca ne mange pas de pain, de s'assoir à coté, de lui faire une blague, de lui proposer de manger ensemble etc.  Ou même de l'encourager, de remarquer une qualité dans son travail, etc.  
+  La collaboration entre être humain est soumis à des codes culturels et tout le monde n'a peut être pas eu l'occasion d'en prendre conscience ou encore connaissance. On a tous une valeur inestimable à apporter à un groupe tant que l'on fait de son mieux pour se positionner toujours dans une approche de bienveillance, et un groupe à reellement quelquechose à perdre quand un membre en est exclue.  
