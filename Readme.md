@@ -5,6 +5,8 @@
   
 ## Introduction/  
   
+  <a href="/">![Alt Text](https://media.giphy.com/media/3oEjI7gBSMd2jtZOI8/giphy.gif)</a>  
+  
   Étrangement, plus on a d'expérience dans la vie en général et plus il devient difficile 
   d'aligner sa mentalité avec celui de l'enfant qu'on était dans le passé. Hors, cet enfant là 
   était bien plus fort pour apprendre de nouvelles choses que l'adulte qu'on est aujourdhui, n'est-ce pas ?!  
@@ -28,7 +30,7 @@
   
 ## Les 10 commandements du `Valeureux Moussaillon`/  
 
-  <a href="/">![Alt Text](https://media.giphy.com/media/3oEjI7gBSMd2jtZOI8/giphy.gif)</a>  
+  
 
 ### *1*  Un bon moussaillon est **un moussaillon qui est confortable avec la sensation d'être nul.**/  
 
