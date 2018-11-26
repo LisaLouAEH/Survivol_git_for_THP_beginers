@@ -28,11 +28,11 @@
   
 ## Les 10 commandements du `Valeureux Moussaillon`/  
 
-  <iframe src="https://giphy.com/embed/3oEjI7gBSMd2jtZOI8" width="480" height="254" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>  
+  <a href="/">![Alt Text](https://media.giphy.com/media/3oEjI7gBSMd2jtZOI8/giphy.gif)</a>  
 
 ### *1*  Un bon moussaillon est **un moussaillon qui est confortable avec la sensation d'être nul.**/  
-  
-  <a href="" target="_blank"> ![Alt Text](https://media.giphy.com/media/3oEjI7gBSMd2jtZOI8/giphy.gif)</a>
+
+  <iframe src="https://giphy.com/embed/2uxqZNcoAxujRtJ0ET" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>  ![Alt Text]
 
   A l'image du discours de <a href="https://www.youtube.com/channel/UC22mJjtnkZfLZMBoAZ9jI3w/featured">Stephane</a>, le parcours The Hacking Project nous confronte directement à la difficulté de ne pas pouvoir s'appuyer sur notre acharnement et notre motivation pour obtenir des résultats.  
 
