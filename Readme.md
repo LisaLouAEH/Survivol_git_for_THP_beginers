@@ -32,7 +32,7 @@
 
 ### *1*  Un bon moussaillon est **un moussaillon qui est confortable avec la sensation d'être nul.**/  
 
-  <iframe src="https://giphy.com/embed/2uxqZNcoAxujRtJ0ET" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>  ![Alt Text]
+  <a href="/">![Alt Text](https://media.giphy.com/media/2uxqZNcoAxujRtJ0ET/giphy.gif)</a>  
 
   A l'image du discours de <a href="https://www.youtube.com/channel/UC22mJjtnkZfLZMBoAZ9jI3w/featured">Stephane</a>, le parcours The Hacking Project nous confronte directement à la difficulté de ne pas pouvoir s'appuyer sur notre acharnement et notre motivation pour obtenir des résultats.  
 
@@ -61,7 +61,7 @@
 
 ### *2* Un bon moussaillon est **un moussaillon aussi gentil avec les autres qu'il est gentil envers lui-même.**/  
 
-  <iframe src="https://giphy.com/embed/l0K4jDUcFfEPkAKxa" width="480" height="263" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>  
+  <a href="/">![Alt Text](https://media.giphy.com/media/l0K4jDUcFfEPkAKxa/giphy.gif)</a>  
 
   `Je suis trop con`, `ah putain je suis trop bête`, `désolé, je fais que de la merde` etc... **STOP** !!  
 
@@ -75,7 +75,7 @@ le monde avec des notions de 'cons', 'bête', 'merde' etc... ce qui laisse plane
 
 ### *3* Un bon moussaillon **accepte l'aide des autres**/  
 
-  <iframe src="https://giphy.com/embed/d3fT7K9QrI5IQ" width="480" height="401" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>  
+  <a href="/">![Alt Text](https://media.giphy.com/media/d3fT7K9QrI5IQ/giphy.gif)</a>  
 
   Le `phare de la pédagogie THP est la communauté`. Autant il est conseillé partout de ne pas hésiter quand on est coincé, à partager son problème, à *appeller à l'aide*, avec son groupe de travail, et avec la communauté. Autant j'ai pu remarqué qu'on parlait pas beaucoup de comment apprendre à se faire aider. 
   Pour certains c'est naturel, pour d'autres cela s'apprend, on est d'accord ?  
@@ -92,8 +92,8 @@ le monde avec des notions de 'cons', 'bête', 'merde' etc... ce qui laisse plane
   
 
 ### *4* Un bon moussaillon **est un moussaillon qui fait des pauses, pour prendre du recul**/  
-
-  <iframe src="https://giphy.com/embed/BlWF2vzpIPB0A" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>  
+  
+  <a href="/">![Alt Text](https://media.giphy.com/media/BlWF2vzpIPB0A/giphy.gif)</a>  
 
   Comme dans n'importe quel sport, si on bourrine comme des bourriques dès le départ, on finit par se blesser et ne plus pouvoir progresser.  
   Sans vouloir jouer les '*docteur je-sais-tout*', qui n'a pas vu passer suffisament d'études sur le comportement du cerveau, pour savoir qu'il a besoin de [sucre], de [dopamine_serotonine_et_autre hormone_du_plaisir], et de [repos] !!  
@@ -101,7 +101,7 @@ le monde avec des notions de 'cons', 'bête', 'merde' etc... ce qui laisse plane
 
 ### *5* Un bon moussaillon **est un moussaillon qui a confiance**/  
   
-  <iframe src="https://giphy.com/embed/e05GB2c86qgOk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>  
+  <a href="/">![Alt Text](https://media.giphy.com/media/e05GB2c86qgOk/giphy.gif)</a>  
   
   Aaaah la `confiance`, un si vaste sujet. Peut être le plus important de tous !  
   Deux type de confiances peuvent être mise à mal quand vous abordez ce genre de démarche (apprendre une toute nouvelle discipline):   
@@ -135,7 +135,7 @@ le monde avec des notions de 'cons', 'bête', 'merde' etc... ce qui laisse plane
 
 ### *6* Un bon moussaillon **fait preuve de rigueur**/  
   
-  <iframe src="https://giphy.com/embed/Qw4X3FJbFEXeglZ7s6A" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>  
+  <a href="/">![Alt Text](https://media.giphy.com/media/Qw4X3FJbFEXeglZ7s6A/giphy.gif)</a>  
   
   [Ici nous abordons une opinion qui m'est complètement personnelle car elle traite de mes valeurs, libre à vous d'en tenir compte ou de passer au chapitre suivant.]  
 
@@ -146,7 +146,7 @@ le monde avec des notions de 'cons', 'bête', 'merde' etc... ce qui laisse plane
 
 ### *7* Un bon moussaillon **fait toujours de son mieux**/  
   
-  <iframe src="https://giphy.com/embed/8fRwPZtbWkkX6" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>  
+  <a href="/">![Alt Text](https://media.giphy.com/media/8fRwPZtbWkkX6/giphy.gif)</a>  
 
   Est-ce qu'il vous paraît objectivement 'possible' de faire 'mieux' que votre 'mieux' ?  
   *NaN ??!*  
@@ -164,7 +164,7 @@ le monde avec des notions de 'cons', 'bête', 'merde' etc... ce qui laisse plane
 
 ### *8* Un bon moussaillon **répond à un appel à l'aide, mais ne s'impose jamais**/  
 
-  <iframe src="https://giphy.com/embed/26BREubCKxCMTGNcQ" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>  
+  <a href="/">![Alt Text](https://media.giphy.com/media/26BREubCKxCMTGNcQ/giphy.gif)</a>  
 
   Galilée disait `enseigner aux autres c'est leur rappeler ce qu'ils savent déjà`.  
   
@@ -185,7 +185,7 @@ le monde avec des notions de 'cons', 'bête', 'merde' etc... ce qui laisse plane
 
 ### *9* Un bon moussaillon **est un moussaillon reconnaissant**/  
 
-  <iframe src="https://giphy.com/embed/3o85xwxLiPthmkMI6s" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>  
+  <a href="/">![Alt Text](https://media.giphy.com/media/3o85xwxLiPthmkMI6s/giphy.gif)</a>  
 
   Ça coute rien de dire `merci` quand on vous fil un coup de main, n'est ce pas ?  
 
@@ -194,21 +194,17 @@ le monde avec des notions de 'cons', 'bête', 'merde' etc... ce qui laisse plane
   
 
 ### *10* Un bon moussaillon **n'est jamais seul, et ne laisse personne derrière**/  
-  
-  <iframe src="https://giphy.com/embed/3o85xExGR1trLBO1R6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>  
+   
+  <a href="/">![Alt Text](https://media.giphy.com/media/3o85xExGR1trLBO1R6/giphy.gif)</a>  
   
   Si je puis me permettre une dernière recommandation, c'est bien de vous intéresser à tous les membres de votre groupe, même quand tout se passe bien. Si vous remarquez qu'une personne est un peu plus en retrait que les autres, qu'elle fait un peu cavalier seul, ou que vous observez que jours après jours, elle devient de plus en plus discrète, il est possible que cette personne ait besoin d'un petit coup de pouce relationnel de la part de n'importe qui dans le groupe.  
   
   Tout le monde a besoin de sentir que sa présence dans un groupe est utile, importante, que les gens s'y intéressent.  
   Ça ne mange pas de pain, de s'assoir à côté d'elle, de lui faire une blague, de lui proposer de manger ensemble etc. Ou même de l'encourager, de remarquer une qualité dans son travail, etc.  
     
-  La collaboration entre être humain est soumise à des codes culturels et tout le monde n'a peut être pas eu l'occasion d'en prendre conscience ou encore connaissance. On a tous une valeur inestimable à apporter à un groupe tant que l'on fait de son mieux pour se positionner toujours dans une approche de bienveillance, et un groupe a réellement quelque chose à perdre quand un membre en est exclu.  
-
-    
+  La collaboration entre être humain est soumise à des codes culturels et tout le monde n'a peut être pas eu l'occasion d'en prendre conscience ou encore connaissance. On a tous une valeur inestimable à apporter à un groupe tant que l'on fait de son mieux pour se positionner toujours dans une approche de bienveillance, et un groupe a réellement quelque chose à perdre quand un membre en est exclu.   
 
 ## Lecture recommandable:  
-
-  
 
   Dale Carnegie, *"Comment se faire des amis"*.  
 
